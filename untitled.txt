@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<head><title>كرة القدم</title></head>
+<body><h1>أخبار كرة القدم</h1></body>
+</html>
